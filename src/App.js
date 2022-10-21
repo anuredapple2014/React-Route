@@ -1,5 +1,5 @@
 import { Route } from "react-router-dom";
-import { MainHeader } from "./components/MainHeader";
+import  {MainHeader}  from "./components/MainHeader";
 import ProductDetail from "./Pages/ProductDetail";
 import Products from "./Pages/Products";
 import Welcome from "./Pages/Welcome";
